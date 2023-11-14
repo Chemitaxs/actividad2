@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Mi primera pagina"
+title: "Página Chema"
 permalink: /paginas/
 
 ---
 
-Pagina nueva para con Markdown
+Hola soy Chema y esta es mi primera página web
